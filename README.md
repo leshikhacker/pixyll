@@ -46,7 +46,7 @@ email: your_email@example.com
 author: John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl: ""
-url: "https://leshikhacker.github.io/thoughts/"
+url: "https://leshikhacker.github.io"
 
 # Build settings
 markdown: kramdown
