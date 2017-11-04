@@ -44,7 +44,7 @@ for the Jekyll site. The defaults are:
 title: Pixyll
 email: your_email@example.com
 author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "хаотичні нотатки про життя"
 baseurl: ""
 url: "https://leshikhacker.github.io/thoughts/"
 
